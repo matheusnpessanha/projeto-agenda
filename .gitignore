@@ -16,3 +16,11 @@ __pycache__/
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
+
+#django
+static/
+media/
+*.log
+*.pot
+*.pyc 
+db.sqlite3
